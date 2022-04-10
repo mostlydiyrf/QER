@@ -1,0 +1,3 @@
+(sym_lib_table
+  (lib (name QER_8pole-rescue)(type Legacy)(uri ${KIPRJMOD}/QER_8pole-rescue.lib)(options "")(descr ""))
+)
